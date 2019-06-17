@@ -1,0 +1,10 @@
+Para criar o projeto base do react?
+
+- Rodar na pasta desejada o comando no CMD: npx create-react-app nomedoapp
+
+Para rodar o projeto no browser?
+
+- Rodar o comando pelo terminal dentro da pasta do projeto: npm run start
+
+
+Criar uma pasta compnents onde ficará o projeto.css e o projeto.js
